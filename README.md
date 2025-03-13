@@ -5,14 +5,14 @@
 :mag_right: **`Forensic science student and aspiring developer`**
 
 *   🌍  I'm based in Cracow, Poland 🇵🇱
-*   📨  You can contact me at [aniakslowik@gmail.com](mailto:aniakslowik@gmail.com)
+*   📨  You can contact me at [ania.k.slowik@gmail.com](mailto:aniakslowik@gmail.com)
 
 ### 👋 About me
-I became interested in programming back in high school and I've been actively expanding my knowledge in this area since the beggining of my studies. Mostly I have been creating modern websites and mobile apps but I am interested in Cybersecurity, Machine Learning and Game Development too. I am currently studying Modern Technologies in Forensic Science and I love to gain new skills! In my free time I enjoy playing guitar and reading books as well as going for walks.
+I became interested in programming back in high school and I've been actively expanding my knowledge in this area since the beggining of my studies. Mostly I have been creating modern websites and mobile apps but I am interested in Cybersecurity, Machine Learning and Game Development too. I am currently studying Cybersecurity and I love to gain new skills! In my free time I enjoy playing guitar and reading books as well as going for walks.
 
    ### 🛠️ Skills 
    <details>
-    <summary><b>:muscle: Regular</b></summary>
+    <summary><b>:muscle: Proficient</b></summary>
     <br />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,7 +30,7 @@ I became interested in programming back in high school and I've been actively ex
 </details>
 
 <details>
-    <summary><b>:writing_hand: Junior</b></summary>
+    <summary><b>:writing_hand: Intermediate</b></summary>
     <br />
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -47,7 +47,7 @@ I became interested in programming back in high school and I've been actively ex
 </details>
 
 <details>
-    <summary><b>:brain: Beginner</b></summary>
+    <summary><b>:brain: Currently learning</b></summary>
     <br />
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
