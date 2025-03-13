@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=62FF00&random=false&width=435&lines=%F0%9F%92%BB+Code.;%F0%9F%9B%8F%EF%B8%8F+Sleep.;%F0%9F%94%81+Repeat.)](https://git.io/typing-svg)
 
-:mag_right: **`Forensic science student and aspiring developer`**
+:mag_right: **`Bachelor of Science, Cybersecurity student and aspiring developer`**
 
 *   🌍  I'm based in Cracow, Poland 🇵🇱
 *   📨  You can contact me at [ania.k.slowik@gmail.com](mailto:aniakslowik@gmail.com)
